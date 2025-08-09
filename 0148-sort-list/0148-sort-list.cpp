@@ -16,35 +16,29 @@ public:
         ListNode*fast=head;
 
         while(fast->next!=NULL && fast->next->next!=NULL){
-            slow=slow->next;
             fast=fast->next->next;
-        }
-        return slow;
-    }
-    ListNode* merge(ListNode*left,ListNode*right){
-        if(left==NULL){
-            return right;
-        }
-        if(right==NULL){
-            return left;
+            slow=slow->next;
+
         }
 
+        return slow;
+    }
+
+    ListNode*merge(ListNode*left,ListNode*right){
         ListNode*ans=new ListNode(-1);
 
         ListNode*temp=ans;
 
         while(left!=NULL && right!=NULL){
-            if(left->val<right->val){
+            if(left->val < right->val){
                 temp->next=left;
                 temp=left;
                 left=left->next;
-
             }
             else{
-               temp->next=right;
-               temp=right;
-               right=right->next;
-
+                temp->next=right;
+                temp=right;
+                right=right->next;
             }
         }
 
@@ -61,11 +55,11 @@ public:
 
         ans=ans->next;
         return ans;
-    }
 
+    }
     ListNode* sortList(ListNode* head) {
         if(head==NULL){
-            return head;
+            return NULL;
         }
         if(head->next==NULL){
             return head;
@@ -74,15 +68,18 @@ public:
         ListNode*mid=findMid(head);
 
         ListNode*left=head;
+
         ListNode*right=mid->next;
+
         mid->next=NULL;
 
         left=sortList(left);
         right=sortList(right);
 
-        //now merge both list
-        
         ListNode*ans=merge(left,right);
         return ans;
+
+
+
     }
 };
