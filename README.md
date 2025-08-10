@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0234-palindrome-linked-list) |
