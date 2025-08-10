@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
