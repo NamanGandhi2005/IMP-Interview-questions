@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0523-continuous-subarray-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
