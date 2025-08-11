@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0204-count-primes) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0287-find-the-duplicate-number) |
