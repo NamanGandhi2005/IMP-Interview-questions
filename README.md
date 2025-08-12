@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0031-next-permutation) |
 | [0057-insert-interval](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0148-sort-list) |
