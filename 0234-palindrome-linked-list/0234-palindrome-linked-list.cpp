@@ -10,49 +10,67 @@
  */
 class Solution {
 public:
-    int solveLen(ListNode*head){
-        ListNode*temp=head;
-        int len=0;
-
-        while(temp!=NULL){
-            len++;
-            temp=temp->next;
-        }
-        return len;
-    }
-
-    bool isPalindrome(ListNode* head) {
+    ListNode*findMid(ListNode*head){
         ListNode*slow=head;
         ListNode*fast=head;
-        int len=solveLen(head);
+
         while(fast->next!=NULL && fast->next->next!=NULL){
             slow=slow->next;
             fast=fast->next->next;
 
         }
-        ListNode*head2=slow->next;
-        slow->next=NULL;
+        return slow;
+    }
 
-
-
+    ListNode*reverseList(ListNode*head){
         ListNode*prev=NULL;
-        ListNode*curr=head2;
+        ListNode*curr=head;
 
         while(curr!=NULL){
-            ListNode*next=curr->next;
+            ListNode*newNode=curr->next;
             curr->next=prev;
             prev=curr;
-            curr=next;
+            curr=newNode;
         }
-        //compare prev and head
+        return prev;
 
-        while(head!=NULL && prev!=NULL){
-            if(prev->val!=head->val){
-                return false;
+    }
+
+    bool isPalindrome(ListNode* head) {
+        if(head==NULL){
+            return NULL;
+
+        }
+        if(head->next==NULL){
+            return head;
+        }
+
+        //find mid and split the list left and right mid
+
+        ListNode*mid=findMid(head);
+
+        //now we have mid separate the listy 
+
+        ListNode*left=head;
+
+        ListNode*right=mid->next;
+        mid->next=NULL;
+
+
+        //reverse the right list 
+
+        ListNode*reversedRight=reverseList(right);
+
+        while(left!=NULL && reversedRight!=NULL){
+        
+            if(left->val!=reversedRight->val){
+                return  false;
             }
-            prev=prev->next;
-            head=head->next;
+            left=left->next;
+            reversedRight=reversedRight->next;
         }
         return true;
+
+
     }
 };
