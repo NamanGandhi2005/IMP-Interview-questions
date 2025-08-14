@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0141-linked-list-cycle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0141-linked-list-cycle) |
