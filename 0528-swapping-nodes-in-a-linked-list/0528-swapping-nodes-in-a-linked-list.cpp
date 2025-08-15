@@ -10,6 +10,7 @@
  */
 class Solution {
 public:
+
     int Len(ListNode*head){
         int len=0;
         ListNode*temp=head;
@@ -17,36 +18,38 @@ public:
         while(temp!=NULL){
             len++;
             temp=temp->next;
+
         }
+
         return len;
     }
     ListNode* swapNodes(ListNode* head, int k) {
         if(head==NULL){
             return NULL;
-        }
-        int len=Len(head);
-        int n=len-k;
-        ListNode*front=head;
-        ListNode*back=head;
 
+        }
+
+        int len=Len(head);
+
+        int n=len-k;
+        ListNode*left=head;
+        ListNode*right=head;
 
         while(k>1){
-            front=front->next;
+            left=left->next;
             k--;
-
         }
+
         while(n--){
-            back=back->next;
+            right=right->next;
         }
 
-        cout<<front->val<<endl;
-        cout<<back->val<<endl;
+        int rightVal=right->val;
 
-        int frontValue=front->val;
+        right->val=left->val;
 
-        front->val=back->val;
-        back->val=frontValue;
-
+        left->val=rightVal;
         return head;
+
     }
 };
