@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0435-non-overlapping-intervals) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0908-middle-of-the-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0234-palindrome-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0242-valid-anagram) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Enumeration
 |  |
 | ------- |
