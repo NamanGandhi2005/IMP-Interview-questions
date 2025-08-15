@@ -3,29 +3,20 @@ public:
     double findMaxAverage(vector<int>& nums, int k) {
         int n=nums.size();
 
-        int ans=INT_MIN;
-        int i=0;
-        int j=0;
+        int left=0;
+        int right=0;
         int sum=0;
-        
-
-        while(j<n){
-            sum+=nums[j];
-            if(j-i+1==k){
-                ans=max(ans,sum);
-                sum-=nums[i];
-                
-                i++;
-                
+        int maxSum=INT_MIN;
+        while(right<n){
+            sum+=nums[right];
+            if(right-left+1==k){
+                maxSum=max(maxSum,sum);
+                sum-=nums[left];
+                left++;
             }
-            j++;
+            right++;
         }
-        // ans=max(ans,sum);
-        double maxAvg=ans/(double)k;
-        cout<<ans<<endl;
-        return maxAvg;
-
-
-
+        double ans=(double)maxSum/(double)k;
+        return ans;
     }
 };
