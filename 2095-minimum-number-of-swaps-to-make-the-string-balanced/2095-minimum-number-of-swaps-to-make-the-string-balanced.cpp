@@ -1,16 +1,14 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        if(s.size()%2!=0){
-            return -1;
-        }
         stack<char>st;
+
         for(auto ch:s){
             if(ch=='['){
                 st.push(ch);
+
             }
             else{
-                //close bracket aarhe h
                 if(!st.empty() && st.top()=='['){
                     st.pop();
                 }
@@ -19,6 +17,7 @@ public:
                 }
             }
         }
+
         int a=0;
         int b=0;
         while(!st.empty()){
