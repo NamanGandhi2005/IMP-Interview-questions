@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0234-palindrome-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0176-second-highest-salary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
