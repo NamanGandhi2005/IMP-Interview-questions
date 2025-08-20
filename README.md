@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
