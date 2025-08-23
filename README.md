@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
