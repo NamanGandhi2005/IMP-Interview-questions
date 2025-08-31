@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0287-find-the-duplicate-number) |
 ## String
