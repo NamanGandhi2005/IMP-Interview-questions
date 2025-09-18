@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-
     bool solve(TreeNode*root,int targetSum,int sum){
         if(root==NULL){
             return false;
@@ -21,24 +20,22 @@ public:
 
         if(root->left==NULL && root->right==NULL){
             if(sum==targetSum){
-                return true;
+                return  true;
 
             }
-            else{
+            else {
                 return false;
             }
-
         }
-
 
         bool left=solve(root->left,targetSum,sum);
         bool right=solve(root->right,targetSum,sum);
 
-        return left||right;
+        return left|| right;
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
         int sum=0;
-        bool ans=solve(root,targetSum,sum);
-        return ans;
+        return solve(root,targetSum,sum);
+
     }
 };
