@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0162-find-peak-element) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0242-valid-anagram) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0948-sort-an-array) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
