@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0142-linked-list-cycle-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -130,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
