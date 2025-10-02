@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -173,7 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0523-continuous-subarray-sum) |
-| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0287-find-the-duplicate-number) |
