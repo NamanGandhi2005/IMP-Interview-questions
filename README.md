@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0739-daily-temperatures) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
