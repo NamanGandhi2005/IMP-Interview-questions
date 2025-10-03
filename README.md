@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0948-sort-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1319-unique-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0523-continuous-subarray-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
