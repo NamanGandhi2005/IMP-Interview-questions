@@ -1,18 +1,20 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        //sum method
-
         int n=nums.size();
-
-        int currSum=0;
-
-        for(auto num:nums){
-            currSum+=num;
+        sort(nums.begin(),nums.end());
+        int ans=-1;
+        for(int i=0;i<n;i++){
+            if(nums[i]-i==1){
+                ans=i;
+                break;
+            }
         }
 
-        int actualSum=n*(n+1)/2;
+        if(ans==-1){
+            return n;
+        }
 
-        return actualSum-currSum;
+        return ans;
     }
 };
