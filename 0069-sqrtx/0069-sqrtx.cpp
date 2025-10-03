@@ -1,18 +1,25 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        
+        int start=0;
+        int end=x;
+
+        int mid=start+(end-start)/2;
         int ans=-1;
-        for(int i=0;i<=x;i++){
-            if((long long)i*i==x){
-                return i;
+        
+        while(start<=end){
+            if((long long)mid*mid==x){
+                return mid;
             }
-            else if((long long)i*i<x){
-                ans=i;
+            else if((long long)mid*mid<x){
+                ans=mid;
+                start=mid+1;
             }
             else{
-                break;
+                end=mid-1;
             }
+
+            mid=start+(end-start)/2;
         }
 
         return ans;
