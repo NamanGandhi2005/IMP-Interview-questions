@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0523-continuous-subarray-sum) |
+| [2238-a-number-after-a-double-reversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2238-a-number-after-a-double-reversal) |
 ## Prefix Sum
 |  |
 | ------- |
