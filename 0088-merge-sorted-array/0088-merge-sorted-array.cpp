@@ -6,6 +6,7 @@ public:
         int i=0;
         int j=0;
 
+
         while(i<m && j<n){
             if(nums1[i]<nums2[j]){
                 temp.push_back(nums1[i]);
@@ -25,8 +26,8 @@ public:
             temp.push_back(nums2[j]);
             j++;
         }
+
         nums1=temp;
         
-
     }
 };
