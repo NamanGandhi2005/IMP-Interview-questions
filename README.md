@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0435-non-overlapping-intervals) |
+| [1013-fibonacci-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0523-continuous-subarray-sum) |
+| [1013-fibonacci-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1013-fibonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2238-a-number-after-a-double-reversal) |
 ## Prefix Sum
 |  |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
