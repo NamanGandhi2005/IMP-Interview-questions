@@ -7,14 +7,12 @@ public:
             int digit=x%10;
 
             if(ans>INT_MAX/10 || ans<INT_MIN/10){
-                reutrn 0;
+                return 0;
             }
+
             ans=(ans*10)+digit;
-
             x=x/10;
-
         }
-
 
         return ans;
     }
