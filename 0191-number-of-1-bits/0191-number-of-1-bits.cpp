@@ -9,11 +9,10 @@ public:
             if(digit==1){
                 count++;
             }
-            n=n/2;
 
+            n=n/2;
         }
 
         return count;
-
     }
 };
