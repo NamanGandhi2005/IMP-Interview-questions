@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0435-non-overlapping-intervals) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Enumeration
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
