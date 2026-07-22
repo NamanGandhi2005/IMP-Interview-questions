@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0948-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1319-unique-number-of-occurrences) |
 ## Dynamic Programming
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1260-shift-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
 | ------- |
