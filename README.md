@@ -256,11 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
