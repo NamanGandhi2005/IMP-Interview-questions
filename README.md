@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0948-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1319-unique-number-of-occurrences) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/1013-fibonacci-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/NamanGandhi2005/IMP-Interview-questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
